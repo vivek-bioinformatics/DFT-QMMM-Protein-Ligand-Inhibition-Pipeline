@@ -1,0 +1,19 @@
+# Results folders
+*_results/
+*.log
+nohup.out
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Large files
+*.h5
+*.chk
+*.cube
+
+# OS
+.DS_Store
+Thumbs.db
